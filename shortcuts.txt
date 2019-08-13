@@ -1,0 +1,8 @@
+! + press tab       // for creating ahtml page
+Lorem50 + press tab 
+
+ul>li*n
+
+b4 + tab
+
+div.container>div#wrapper>p*3
